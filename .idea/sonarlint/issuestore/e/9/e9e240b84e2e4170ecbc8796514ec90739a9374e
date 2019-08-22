@@ -1,0 +1,5 @@
+
+Bsquid:S1172"&Remove these unused method parameters.(’éŠ§úÿÿÿÿ
+squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(’éŠ§úÿÿÿÿ
+[squid:UnusedPrivateMethod"1Remove this unused private "assertEquals" method.(’éŠ§úÿÿÿÿ
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(‚¬óºüÿÿÿÿ8•¸Ø¤Ë-

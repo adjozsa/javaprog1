@@ -1,0 +1,11 @@
+
+Š"squid:ClassVariableVisibilityCheck"WMake membersName a static final constant or non-public and provide accessors if needed.(ÈìûÓûÿÿÿÿ
+N
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ü®¦
+†"squid:ClassVariableVisibilityCheck"XMake membersPrice a static final constant or non-public and provide accessors if needed.(ñåÙš
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(²‹íÛ
+dsquid:S1226"HIntroduce a new variable instead of reusing the parameter "membersName".(Ï€¡µþÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(É­³¾þÿÿÿÿ
+`squid:S1226"IIntroduce a new variable instead of reusing the parameter "membersPrice".(”äûÞ

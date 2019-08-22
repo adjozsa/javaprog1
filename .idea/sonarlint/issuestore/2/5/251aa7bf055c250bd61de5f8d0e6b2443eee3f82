@@ -1,0 +1,11 @@
+
+O
+squid:S106*"9Replace this use of System.out or System.err by a logger.(•›Çˆ
+T
+squid:S106H"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+”squid:S1319"qThe type of the "orders" object should be an interface such as "List" rather than the implementation "ArrayList".(À¬Þ‰úÿÿÿÿ8«·¨¥Ë-
+]squid:UnusedPrivateMethod;"8Remove this unused private "calculateOrderTotal" method.(½’Âã
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ú°à¬8ÒÚ£¥Ë-
+Xsquid:UnusedPrivateMethodF".Remove this unused private "printItem" method.(£ ’òøÿÿÿÿ
+Xsquid:S1126,"AReplace this if-then-else statement by a single return statement.(³êè°
+Tsquid:UnusedPrivateMethod("/Remove this unused private "deleteItem" method.( èå
